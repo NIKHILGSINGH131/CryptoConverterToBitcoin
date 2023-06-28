@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CryptoConverterToBitcoin/static/css/main.3dc215ba.css",
+    "main.js": "/CryptoConverterToBitcoin/static/js/main.b4af5703.js",
+    "index.html": "/CryptoConverterToBitcoin/index.html",
+    "main.3dc215ba.css.map": "/CryptoConverterToBitcoin/static/css/main.3dc215ba.css.map",
+    "main.b4af5703.js.map": "/CryptoConverterToBitcoin/static/js/main.b4af5703.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dc215ba.css",
+    "static/js/main.b4af5703.js"
+  ]
+}
